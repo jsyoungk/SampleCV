@@ -39,3 +39,6 @@ Some of the difficulties of this challenge came from CSS position properties. I 
  </ul> 
  
 Lastly, the mountain and cloud images were included in the resource file for the Udemy classes.</p>
+
+###Goals for the next lesson
+<p> I want to concentrate more on integrating more JS, functionality, general responsiveness (making it phone friendly), and finally refining the design. My goal is to eventually have a solid baseline so that I can move to Adobe DreamWeaver or Adobe XD.</p>
