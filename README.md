@@ -1,4 +1,5 @@
 # SampleCV
+## Getting back into coding
 
 <p>Feel free to check out the <a href="https://jsyoungk.github.io/SampleCV/index.html">Sample CV</a>.</p>
 <p>This Sample CV is based off a class challenge from the Udemy Course: The Complete Web Development Course.
